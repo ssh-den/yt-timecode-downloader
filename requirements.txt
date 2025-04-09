@@ -1,0 +1,6 @@
+yt-dlp
+pandas
+openpyxl
+google-api-python-client
+python-dotenv
+tqdm
